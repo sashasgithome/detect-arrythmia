@@ -10,7 +10,8 @@ Below would be how healthcare workers input some of the patient stats. <br>
  <br>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/235f6c23-6158-41ff-b6b6-3187a318cd52"/>
-</p
+</p>
+
 
 
 
